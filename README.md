@@ -69,6 +69,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
+live at https://protfolio3.web.app/
+
 ---
 
 ## 📁 Project Structure
